@@ -22,7 +22,7 @@ If this is your fisrt PR and need direction, read more below.
 
 * Go to the top level page of this [repository](https://github.com/allenthomas01/DSA).
 * Click the "Fork" Button in the upper right hand corner of the interface ([More Details](https://help.github.com/articles/fork-a-repo/)).
-* After the repository has been forked, you will be taken to your copy of the repo at https://github.com/yourUsername/hacktober-special.
+* After the repository has been forked, you will be taken to your copy of the repo at https://github.com/yourUsername/DSA.
 
 3. Cloning Your Fork
 

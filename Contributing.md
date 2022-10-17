@@ -7,7 +7,7 @@
 4. Commit changes and push the new branch.
 6. Open and submit a PR.
 
-If this is your fisrt PR and need direction, read more below.
+If this is your first PR and need direction, read more below.
 
 ### Contributor's Guide
 

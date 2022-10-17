@@ -6,4 +6,4 @@ This is a repository which contains the program implementation of  data structur
 - The programs will have their respective language folders.
 
 ## Contributing Guidelines
-- Find contributing guidelines here. 
+- Find contributing guidelines [here](Contributing.md). 
